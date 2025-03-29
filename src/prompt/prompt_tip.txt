@@ -1,0 +1,7 @@
+'a bad photo of the {}.',
+'a {} in a video game.',
+'a origami {}.',
+'a photo of the small {}.',
+'art of the {}.',
+'a photo of the large {}.',
+'itap of a {}.',

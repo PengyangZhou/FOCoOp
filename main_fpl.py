@@ -12,7 +12,6 @@ from src.utils.main_utils import make_save_path, get_server_and_client, set_seed
 
 warnings.filterwarnings("ignore")
 torch.set_num_threads(8)
-os.environ["HTTPS_PROXY"] = "http://10.162.243.198:7890"
 
 
 def run():
